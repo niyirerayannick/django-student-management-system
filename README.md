@@ -34,14 +34,6 @@ And if you like this project then ADD a STAR ⭐️  to this project 👆
 5. Send Feedback to HOD
 
 
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-
-
-
 ## How to Install and Run this project?
 
 ### Pre-Requisites:
